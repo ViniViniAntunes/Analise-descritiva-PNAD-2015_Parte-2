@@ -8,7 +8,7 @@ Projeto proposto pelo curso de Estatística com Python parte 2: Probabilidade de
 
 Utilizando os conhecimentos adquiridos no curso foi realizado uma análise descritiva básica de um conjunto de dados retirados da Pesquisa Nacional por Amostra de Domicílios - 2015 do IBGE.
 
-Foi posto em prática alguns conhecimentos adquiridos durante o curso como, cálculo de probabilidades, da margem de erro, do nível de confiança, do tamanho da amostra, etc.
+No projeto final, foi posto em prática alguns conhecimentos adquiridos durante o curso como, cálculo de probabilidades, da margem de erro, do nível de confiança, do tamanho da amostra, etc.
 
 
 
