@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://www.alura.com.br/assets/api/cursos/estatistica-probabilidade-e-amostragem.svg" float="center" width=15%/>
-  <p align="center"><strong align="center">Learning Statistics</strong></p>
+  <p align="center"><strong align="center">Statistics</strong></p>
 </h1>
 
 <br>
