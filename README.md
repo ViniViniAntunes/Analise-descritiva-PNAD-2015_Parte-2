@@ -13,7 +13,7 @@
 
 <br>
 
-<p>Projeto proposto pelo curso de Estatística com Python parte 2: Probabilidade de Amostragem da plataforma Alura.</p>
+<p>Projeto proposto pelo curso de <strong>Estatística com Python parte 2: Probabilidade de Amostragem</strong> da plataforma Alura.</p>
 
 <p>Utilizando os conhecimentos adquiridos no curso foi realizado uma análise descritiva básica de um conjunto de dados retirados da Pesquisa Nacional por Amostra de Domicílios - 2015 do IBGE.</p>
 
