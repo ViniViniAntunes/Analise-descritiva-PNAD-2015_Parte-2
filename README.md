@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.alura.com.br/assets/api/cursos/estatistica-probabilidade-e-amostragem.svg" float="center" width=15%/>
+  <img src="https://www.alura.com.br/assets/api/cursos/estatistica-probabilidade-e-amostragem.svg" float="center" width=20%/>
   <p align="center"><strong align="center">Statistics</strong></p>
 </h1>
 
